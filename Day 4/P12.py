@@ -1,0 +1,16 @@
+# check for palindrome
+s= "racecar"
+rev= s[::-1]
+if s==rev:
+    print("Palindrome")
+else:
+    print("Not a palindrome")
+
+    
+#user input
+s= input("Enter a string: ")
+rev= s[::-1]
+if s==rev:
+    print("Palindrome string")
+else:
+    print("Not a palindrome string")
