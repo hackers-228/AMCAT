@@ -11,3 +11,8 @@ def add():
 # print(add())
 res = add()
 print("Result =",res)
+
+#positional arguments
+#keyword arguments
+#default arguments
+#variable length arguments/variable number of arguments
